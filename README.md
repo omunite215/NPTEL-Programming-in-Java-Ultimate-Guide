@@ -39,6 +39,8 @@ Whenever you learn a programming language, you understand about basics of how a 
 ### Thanks and All the Best working with Java.
 ### Om Patel 
 
-![logo for github](https://user-images.githubusercontent.com/78680563/214636390-39bba6e8-e391-4456-8e97-b77030df845e.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78680563/214636390-39bba6e8-e391-4456-8e97-b77030df845e.png" alt="Om's Logo Image"/>
+</p>
 
 

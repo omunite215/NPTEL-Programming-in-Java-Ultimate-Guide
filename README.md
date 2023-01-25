@@ -1,6 +1,6 @@
 # NPTEL-Programming-in-Java Assignment Solutions with Explanations and Course Guide
 ### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Prof.Debasis Samanta Sir from I.I.T(Indian Institute of Technology) Kharagpur
-### This will help you practice Java from basics to advanced.
+### This will help you practice Java.
 ### I am working on this since a week and I am sharing all my codes I did during preparation of Exam and my learning process.
 
 ## You need to understand these concepts first before solving assignments weekwise:

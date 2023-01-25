@@ -1,5 +1,5 @@
 # NPTEL-Programming-in-Java
-### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Debasis Samantha Sir from I.I.T(Indian Institute of Technology) Kanpur
+### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Prof.Debasis Samanta Sir from I.I.T(Indian Institute of Technology) Kharagpur
 ### This will help you practice Java from basics to advanced.
 ### I am working on this since a week and I am sharing all my codes I did during preparation of Exam and my learning process.
 
@@ -25,8 +25,16 @@
 
 # Tips for Assignment and Exam :-
 ### - Every assignment has testcase so your code must need to pass all the testcases to get marks in assignment.
-### - Dont Write customized print statements because showing your creativity will simply mark zero. I got Zero in few assignments not because output was wrong but wrote long print statements before outputs
+### - Dont Write customized print statements because showing your creativity will simply mark zero. I got Zero in few assignments not because output was wrong but wrote long print statements before outputs.
 ### - Prepare basics well before going into Exam.
+
+# Reference Links to prepare for exam:-
+[NPTEL Swayam](https://onlinecourses.nptel.ac.in/noc22_cs47/course)
+[Geeks for Geeks](https://www.geeksforgeeks.org/)
+[javatpoint](https://www.javatpoint.com/java-tutorial)
+
+# Extras:-
+Whenever you learn a programming language, you understand about basics of how a software works that makes you think about the beauty of technology. Taking Java or any other programming language will clear your basic concepts of programming which will take you deeper into techonology and help you understand the world of computers. 
 
 ### Thanks and All the Best working with Java.
 ### Om Patel 

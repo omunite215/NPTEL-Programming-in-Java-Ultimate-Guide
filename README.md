@@ -1,9 +1,9 @@
-# NPTEL-Programming-in-Java
+# NPTEL-Programming-in-Java Assignment Solutions with Explanations and Course Guide
 ### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Prof.Debasis Samanta Sir from I.I.T(Indian Institute of Technology) Kharagpur
 ### This will help you practice Java from basics to advanced.
 ### I am working on this since a week and I am sharing all my codes I did during preparation of Exam and my learning process.
 
-# You need to understand these concepts first before solving assignments weekwise:
+## You need to understand these concepts first before solving assignments weekwise:
 ### Week 1 => Basic Concepts.
 ### Week 2 => Methods, Functions and Encapsulation.
 ### Week 3 => Access Specifiers, Static scope, Info Hiding.
@@ -29,9 +29,9 @@
 ### - Prepare basics well before going into Exam.
 
 # Reference Links to prepare for exam:-
-[NPTEL Swayam](https://onlinecourses.nptel.ac.in/noc22_cs47/course)
-[Geeks for Geeks](https://www.geeksforgeeks.org/)
-[javatpoint](https://www.javatpoint.com/java-tutorial)
+- [NPTEL Swayam](https://onlinecourses.nptel.ac.in/noc22_cs47/course)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [javatpoint](https://www.javatpoint.com/java-tutorial)
 
 # Extras:-
 Whenever you learn a programming language, you understand about basics of how a software works that makes you think about the beauty of technology. Taking Java or any other programming language will clear your basic concepts of programming which will take you deeper into techonology and help you understand the world of computers. 

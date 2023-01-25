@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Week6Assignment4
+comment0.text=\r\nA\ simple\ worker\ subclass\ of\ Thread.\r\nIn\ its\ run(),\ sends\ 1000\ inc()\ messages\r\nto\ its\ Pair\ object.\r\n(1000\ may\ not\ be\ big\ enough\ to\ exhibit\ the\ bug\ on\ uniprocessor\ --\r\nhardware\ more\ like\ 1000000\ may\ be\ required).\r\n
+comment1.params=
+comment1.target=Pair()
+comment2.params=
+comment2.target=int\ sum()
+comment3.params=
+comment3.target=void\ inc()
+comment4.params=pair
+comment4.target=Week6Assignment4(Pair)
+comment5.params=
+comment5.target=void\ run()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\nTest\ main\ --\ Create\ a\ Pair\ and\ 3\ workers.\r\nStart\ the\ 3\ workers\ --\ they\ do\ their\ run()\ --\r\nand\ wait\ for\ the\ workers\ to\ finish.\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Week3Assignment3
+comment1.params=l\ b
+comment1.target=Shape(double,\ double)
+comment2.params=len
+comment2.target=Shape(double)
+comment3.params=
+comment3.target=double\ calculate()
+comment4.params=length\ h
+comment4.target=Week3Assignment3(double,\ double)
+comment5.params=length\ breadth\ h
+comment5.target=Week3Assignment3(double,\ double,\ double)
+comment6.params=
+comment6.target=double\ calculate()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

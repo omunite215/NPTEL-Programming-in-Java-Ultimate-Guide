@@ -1,4 +1,8 @@
 # NPTEL-Programming-in-Java Assignment Solutions with Explanations and Course Guide
+
+![Java-Logo](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/assets/78680563/7fe16ac7-7eb5-40d0-875a-a6d16ca38a86)
+
+
 ### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Prof.Debasis Samanta Sir from I.I.T(Indian Institute of Technology) Kharagpur
 ### This will help you practice Java.
 ### I am working on this since a week and I am sharing all my codes I did during preparation of Exam and my learning process.
@@ -40,7 +44,7 @@ Whenever you learn a programming language, you understand about basics of how a 
 ### Om Patel 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/214765405-cc734a03-8b4b-4051-be25-77d4b088ea69.png" alt="Om's Logo Image"/>
+  <img src="https://github.com/omunite215/hoobank/assets/78680563/eed23408-14a8-4d04-82b6-6d982f1dcca7" alt="Om's Logo Image"/>
 </p>
 
 

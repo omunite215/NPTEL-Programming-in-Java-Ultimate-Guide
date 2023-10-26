@@ -44,7 +44,7 @@ Whenever you learn a programming language, you understand about basics of how a 
 ### Om Patel 
 
 <p align="center">
-  <img src="https://github.com/omunite215/hoobank/assets/78680563/eed23408-14a8-4d04-82b6-6d982f1dcca7" alt="Om's Logo Image"/>
+  <img src="https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/assets/78680563/76f00912-3d82-4ead-bc8f-cfd11e15ed19" alt="Om's Logo Image"/>
 </p>
 
 

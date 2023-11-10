@@ -1,13 +1,33 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/)
+# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
-## [WEEK 3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-3)
+## [WEEK 4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
-[Java Week 3:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-3/Week3Assignment1.java) To the generation of Fibonacci numbers.
+  [Java Week 4:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment1.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
+  
+  [Java Week 4:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment2.java) To print the current year. 
+  
+  [Java Week 4:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment3.java) The program in this assignment is attempted to print the following output: 
+  
+ -----------------OUTPUT-------------------
+   
+ This is large
 
-[Java Week 3:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-3/Week3Assignment2.java) Define a class Point with two fields x and y each of type double. Also , define a method distance(Point p1, Point p2) to calculate the distance between points p1 and p2 and return the value in double. Complete the code segment given below. Use Math.sqrt( ) to calculate the square root.
+ This is medium
 
-[Java Week 3:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-3/Week3Assignment3.java) A class Shape is defined with two overloading constructors in it. Another class Test1 is partially defined which inherits the class Shape. The class Test1 should include two overloading constructors as appropriate for some object instantiation shown in main( ) method. You should define the constructors using the super class constructors. Also, override the method calculate( ) in Test1 to calculate the volume of a Shape.
+ This is small
 
-[Java Week 3:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-3/Week3Assignment4.java) This program to exercise the call of static and non-static methods. A partial code is given defining two methods, namely sum( ) and multiply ( ). You have to call these methods to find the sum and product of two numbers.
+ This is extra-large
 
-[Java Week 3:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-3/Week3Assignment5.java) To swap two numbers using call by object reference.
+-----------------OUTPUT-------------------
+  
+  [Java Week 4:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To call the default method in the interface First and Second.
+
+  [Java Week 4:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To print the following output.
+
+-----------------OUTPUT-------------------
+
+Circle: This is Shape1
+
+Circle: This is Shape2
+
+-----------------OUTPUT--------------------

@@ -1,35 +1,74 @@
 # [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
 
-## [WEEK 11](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/main/WEEK-11)
+## [WEEK 12](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-12)
 
-  [Java Week 11:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week11Assignment1.java) Complete the code segment to insert the following data using prepared statement in the existing table ‘PLAYERS’.
+  [Java Week 12:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment1.java) Complete the code to develop an extended version of the ADVANCED CALCULATOR with added special functions that emulates all the functions of the GUI Calculator as shown in the image.
 
-| Coulmn | UID | First_Name | Last_Name | Age |
-|--------|-----|------------|-----------|-----|
-| Row 1  | 1   | Ram        | Gopal     | 26  |
-| Row 2  | 2   | John       | Mayer     | 22  |
+![GUI Calculator](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_cs84/GUI1.JPG)
 
-  [Java Week 11:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week11Assignment2.java) Write the required code in order to update the following data in the table ‘PLAYERS’.
+```text
+Note the following points carefully:
+1. Use only double datatype to store all numeric values.
+2. Each button on the calculator should be operated by typing the characters from 'a' to 't'.
+3. You may use the already defined function gui_map(char).
+4. Use predefined methods from java.lang.Math class wherever applicable.
+5. Without '=' binary operations won't give output as shown in Input_3 and Output_3 example below.
+5. The calculator should be able to perform required operations on one or two operands as shown in the below example:
 
-| Coulmn | UID | First_Name | Last_Name | Age |
-|--------|-----|------------|-----------|-----|
-| From   | 1   | Ram        | Gopal     | 26  |
-| To     | 1   | Rama       | Gopala    | 24  |
+Input_1:
+	       okhid
 
-  [Java Week 11:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week11Assignment3.java) Write the appropriate code in order to delete the following data in the table ‘PLAYERS’.
+Output_1:
+		100.0
 
-| Coulmn | UID | First_Name | Last_Name | Age |
-|--------|-----|------------|-----------|-----|
-| Delete | 1   | Rama       | Gopala    | 24  |
+Input_2:
+	       ia
 
-  [Java Week 11:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week11Assignment4.java) Complete the following program to calculate the average age of the players in the table ‘PLAYERS’.
+Output_2:
+		2.0
 
-Structure of Table 'PLAYERS' is given below:
-| Coulmn | UID     | First_Name  | Last_Name   | Age     |
-|--------|---------|-------------|-------------|---------|
-| Type   | Integer | Varchar(45) | Varchar(45) | Integer |
-|        |         |             |             |         |
+Input_3:
+	       okhi
 
+Output_3:
 
-  [Java Week 11:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week11Assignment5.java) Complete the code segment to drop the table named ‘PLAYERS’.
+```
+
+  [Java Week 12:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment2.java) A partial code fragment is given. The URL class object is created in try block.You should write appropriate method( )  to print the protocol name and host name from the given url string.
+```text
+For example:
+https://www.xyz.com:1080/index.htm
+
+protocol://host:port/filename
+```
+
+  [Java Week 12:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment3.java) Write a program to create a record by taking inputs using Scanner class as first name as string ,last name as string ,roll number as integer ,subject1 mark as float,subject2 mark as float. Your program should print in the format 
+```text
+  "name  rollnumber avgmark".
+
+For example:
+input:
+ram
+das
+123
+25.5
+24.5
+output:
+ramdas 123 25.0
+```
+
+  [Java Week 12:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment4.java) A program code is given to call the parent class static method and instance method in derive class without  creating object of parent class. You should write the appropriate code so that the program print the contents of static method() and instance method () of parent class.
+
+  [Java Week 12:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment5.java) Write a recursive function to print the sum of  first n odd integer numbers. The recursive function should have the prototype
+```text
+ " int sum_odd_n(int n) ".
+
+For example :
+
+input : 5
+output: 25 
+
+input : 6
+output : 36
+```

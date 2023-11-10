@@ -1,9 +1,13 @@
- [Java Week 1:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment1.java) To find the perimeter and area of a circle given a value of radius.
+# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
-  [Java Week 1:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment2.java) To find the largest among three numbers x, y, and z.
+## [WEEK 2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-2)
 
-  [Java Week 1:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
+  [Java Week 2:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-2/Question211.java) To call the method  print() in class Student following the concept of inner class.
 
-  [Java Week 1:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment4.java) To check whether the number is an Armstrong number or not.
+   [Java Week 2:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-2/Question212.java) To call the method  print() of class Student first and then call print() method of class School.
 
-  [Java Week 1:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment5.java) To help Ram , find the highest mark and average mark secured by him in "s" number of subjects.
+  [Java Week 2:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-2/Question213.java) To call print() method of class Question by creating a method named ‘studentMethod()’.
+
+  [Java Week 2:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-2/Question214.java) To call default constructor first and then any other constructor in the class Answer.
+
+  [Java Week 2:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-2/Question215.java) To debug the program which is intended to print 'NPTEL JAVA'.

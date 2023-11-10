@@ -1,15 +1,95 @@
 # [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
 
-## [WEEK 7](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7)
+## [WEEK 8](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-8)
 
-  [Java Week 7:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment1.java) Complete the following code fragment to read three integer values from the keyboard and find the sum of the values. Declare a variable "sum" of type int and store the result in it.
-  
-  [Java Week 7:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment2.java) Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “Please enter valid data” .If there is no such exception, it will print the "square of the number".
-  
-  [Java Week 7:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment3.java) A byte char array is initialized. You have to enter an index value"n". According to index your program will print the byte and its corresponding char value.
-Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, it will print the required output.
-  
-  [Java Week 7:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment4.java) The following program reads a string from the keyboard and is stored in the String variable "s1". You have to complete the program so that it should should print the number of vowels in s1 . If your input data doesn't have any vowel it will print "0".
+  [Java Week 8:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
+```text
+For example:
 
-  [Java Week 7:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment5.java) A string "s1" is already initialized. You have to read the index "n"  from the keyboard. Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, your program should replace the char "a" at the index value "n" of the "s1" ,then it will print the modified string.
+input : 5
+output:  
+
+        *  
+      * * *
+    * * * * * 
+  * * * * * * *
+* * * * * * * * * 
+25
+```
+
+  [Java Week 8:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment2.java) Write a program which will print a pascal pyramid of  "*" 's of height "l" .
+```text
+For example:
+
+input: 8
+
+output :
+       *      
+      * * 
+     * * *      
+    * * * *     
+   * * * * *   
+  * * * * * * 
+ * * * * * * * 
+* * * * * * * *
+```
+  
+  [Java Week 8:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment3.java) Write a program which will print a pyramid of  "numbers" 's of height "n" and print the sum of all number's in the pyramid.
+```text
+For example:
+
+input: 5
+
+output: 
+
+        1       
+      1 2 3      
+    1 2 3 4 5    
+  1 2 3 4 5 6 7 
+1 2 3 4 5 6 7 8 9 
+95
+```
+
+  [Java Week 8:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment4.java) Write a program to print symmetric Pascal's triangle of "*" 's of  height "l" of odd length . If input "l" is even then your program will print "Invalid line number".
+```text
+For example:
+
+input : 5
+
+output:
+  *  
+ * *
+* * *
+ * *
+  *
+  
+input : 6
+
+output:
+
+Invalid line number
+```
+
+  [Java Week 8:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment5.java) Write a program to display any digit(n) from 0-9 using "7 segment  display". 
+
+```text
+
+For example:
+
+input : 5
+
+output :
+ _ 
+|_ 
+ _|
+
+
+input : 4
+
+output :
+
+|_|
+  |
+
+```

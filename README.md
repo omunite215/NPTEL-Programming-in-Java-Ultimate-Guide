@@ -1,5 +1,7 @@
 # [NPTEL-Programming-in-Java Assignment Solutions with Explanations and Course Guide](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
+![OOPs-Concept-in-Java](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/assets/78680563/ad175f87-c0b9-402e-88c8-5e91c5dbcdff)
+
 
 ### This Repository has the ultimate guide to crack the exam of Programming in Java Course taught by Prof.Debasis Samanta Sir from I.I.T(Indian Institute of Technology) Kharagpur
 ### This will also help you practice Java.
@@ -27,6 +29,7 @@
 
 ## Extras:
 ### [Extras](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/Extras) => More Practice Problems Coming Soon in next Release.
+![github](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/assets/78680563/f958981c-cb4a-4bcf-98e4-9ffb2c61b2bd)
 
 # How to use this Repository?
 ### This Repository is for Reference.

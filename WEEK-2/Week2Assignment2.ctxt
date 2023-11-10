@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Week2Assignment2
-comment1.params=
-comment1.target=void\ print()
-comment2.params=s
-comment2.target=void\ print(java.lang.String)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4

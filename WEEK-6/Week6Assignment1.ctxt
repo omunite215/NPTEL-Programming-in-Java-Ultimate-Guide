@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Week6Assignment1
-comment0.text=Complete\ the\ code\ segment\ to\ print\ the\ following\ using\ the\ concept\ of\ extending\ the\ Thread\ class\ in\ Java\:\r\n\r\n-----------------OUTPUT-------------------\r\n\r\nThread\ is\ Running.\r\n\r\n-------------------------------------------------\r\n\r\n
-comment1.params=
-comment1.target=void\ start()
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3

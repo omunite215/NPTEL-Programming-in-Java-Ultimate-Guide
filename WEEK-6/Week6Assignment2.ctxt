@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Week6Assignment2
-comment0.text=\ In\ the\ following\ program,\ a\ thread\ class\ Week6Assignment2\ is\ created\ using\ the\ Runnable\ interface\ Complete\ the\ main()\ to\ create\ a\ thread\ object\ of\ the\ class\ Week6Assignment2\ and\ run\ the\ thread.\ It\ should\ print\ the\ output\ as\ given\ below.\r\n\r\n\ \r\n\r\n-----------------OUTPUT-------------------\r\n\r\nWelcome\ to\ Java\ Week\ 6\ New\ Question.\r\n\r\nMain\ Thread\ has\ ended.\r\n\r\n-------------------------------------------------
-comment1.params=
-comment1.target=void\ run()
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3

@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Week4Assignment2
-comment0.text=\ Complete\ the\ code\ segment\ to\ print\ the\ current\ year.\ Your\ code\ should\ compile\ successfully.\r\n\r\nNote\:\ In\ this\ program,\ you\ are\ not\ allowed\ to\ use\ any\ import\ statement.\ Use\ should\ use\ predefined\ class\ Calendar\ defined\ in\ java.util\ package
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2

@@ -1,33 +1,21 @@
 # [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
-## [WEEK 4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
-  [Java Week 4:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment1.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
+## [WEEK 5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5)
+
+  [Java Week 5:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5/Week5Assignment1.java)
+  An interface Number is defined in the following program.  You have to declare a class A, which will implement the interface Number. Note that the method findSqr(n) will return the square of the number n.
   
-  [Java Week 4:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment2.java) To print the current year. 
+  [Java Week 5:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5/Week5Assignment2.java)
+  This program is to find the GCD (greatest common divisor) of two integers writing a recursive function findGCD(n1,n2). Your function should return -1, if the argument(s) is(are) other than positive number(s).
   
-  [Java Week 4:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment3.java) The program in this assignment is attempted to print the following output: 
+  [Java Week 5:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5/Week5Assignment3.java)
+  Complete the code segment to catch the ArithmeticException in the following, if any. On the occurrence of such an exception, your program should print “Exception caught: Division by zero.” If there is no such exception, it will print the result of division operation on two integer values.
   
- -----------------OUTPUT-------------------
-   
- This is large
+  [Java Week 5:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5/Week5Assignment4.java)
+  In the following program, an array of integer data to be initialized. During the initialization, if a user enters a value other than integer value, then it will throw InputMismatchException exception. On the occurrence of such an exception, your program should print “You entered bad data.” If there is no such exception it will print the total sum of the array.
 
- This is medium
+  [Java Week 5:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-5/Week5Assignment5.java)
+  In the following program, there may be multiple exceptions. You have to complete the code using only one try-catch block to handle all the possible exceptions.
 
- This is small
-
- This is extra-large
-
------------------OUTPUT-------------------
-  
-  [Java Week 4:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To call the default method in the interface First and Second.
-
-  [Java Week 4:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To print the following output.
-
------------------OUTPUT-------------------
-
-Circle: This is Shape1
-
-Circle: This is Shape2
-
------------------OUTPUT--------------------
+For example, if user’s input is 1, then it will throw and catch “java.lang.NullPointerException“.

@@ -1,55 +1,15 @@
 # [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
 
 
-## [WEEK 6](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6)
+## [WEEK 7](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7)
 
-  [Java Week 6:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment1.java)
-  Complete the code segment to print the following using the concept of extending the Thread class in Java:
-
------------------OUTPUT-------------------
-
-Thread is Running.
-
-
-  [Java Week 6:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment2.java)
-  In the following program, a thread class ThreadRun is created using the Runnable interface which prints "Thread using Runnable interface". Complete the main class to create a thread object of the class ThreadRun and run the thread,
+  [Java Week 7:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment1.java) Complete the following code fragment to read three integer values from the keyboard and find the sum of the values. Declare a variable "sum" of type int and store the result in it.
   
-  [Java Week 6:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment3.java)
-  A part of the Java program is given, which can be completed in many ways, for example using the concept of thread, etc.  Follow the given code and complete the program so that your program prints the message "NPTEL Java". Your program should utilize the given interface/ class.
+  [Java Week 7:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment2.java) Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “Please enter valid data” .If there is no such exception, it will print the "square of the number".
   
-  [Java Week 6:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment4.java)
-  Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread in a strict sequence. In the following, the program is expected to print some numbers. Do the necessary use of 'synchronized' keyword, so that, the program prints the output in the following order:
+  [Java Week 7:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment3.java) A byte char array is initialized. You have to enter an index value"n". According to index your program will print the byte and its corresponding char value.
+Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, it will print the required output.
   
------------------OUTPUT-------------------
+  [Java Week 7:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment4.java) The following program reads a string from the keyboard and is stored in the String variable "s1". You have to complete the program so that it should should print the number of vowels in s1 . If your input data doesn't have any vowel it will print "0".
 
-5
-
-10
-
-15
-
-20
-
-25
-
-100
-
-200
-
-300
-
-400
-
-500
-
-
-  [Java Week 6:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment5.java)
-  Add necessary codes to print the following:
-  
------------------OUTPUT-------------------
-
-Name of thread 't':Thread-0
-
-New name of thread 't':NPTEL
-
-Thread is running.
+  [Java Week 7:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7/Week7Assignment5.java) A string "s1" is already initialized. You have to read the index "n"  from the keyboard. Complete the code segment to catch the exception in the following, if any. On the occurrence of such an exception, your program should print “exception occur” .If there is no such exception, your program should replace the char "a" at the index value "n" of the "s1" ,then it will print the modified string.

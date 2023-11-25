@@ -17,7 +17,7 @@
 ### [Week-7](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-7) => IOStream advanced usage and Applet Programming(basics).
 ### [Week-8](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-8) => Applet Programming advance concepts and Abstract Window Toolkit(AWT).
 ### [Week-9](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-9) => Swing Programming and Abstract Window Toolkit(AWT).
-### [Week-10](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-10)
+### [Week-10](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-10) => Networking with Java.
 ### [Week-11](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-11) => Java DataBase Connectivity(JDBC) in detail.
 ### [Week-12](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-12) => Case Studies.
 
@@ -50,7 +50,7 @@ Whenever you learn a programming language, you understand about basics of how a 
 
 ## 🏠 Built With:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github)](https://skillicons.dev)
 
 ## 🛠 Skills
 

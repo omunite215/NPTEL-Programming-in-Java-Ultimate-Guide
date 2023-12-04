@@ -26,9 +26,6 @@
 #### [Set-1 Unproctored Exam](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/SET-1_Unproctored_Exam).
 #### [Set-2 Unproctored Exam](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/SET-2_Unproctored_Exam).
 
-## Extras:
-#### [Extras](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/Extras) => More Practice Problems Coming Soon in next Release.
-
 ![github](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/assets/78680563/f958981c-cb4a-4bcf-98e4-9ffb2c61b2bd)
 
 ## How to use this Repository?
